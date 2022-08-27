@@ -1,0 +1,26 @@
+.all
+{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100vw;
+    position: fixed;
+    overflow:scroll;
+    top: 0%;
+    left: 0%;
+    background-image: url('./business-investor-gaining-profit-from-investment.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.container
+{
+    background-color: transparent;
+    backdrop-filter: blur(5px);
+    border: none;
+    padding: 30px;
+    width: 400px;
+    box-shadow: 1px 1px 3px black;
+    border-radius: 10px;
+}
